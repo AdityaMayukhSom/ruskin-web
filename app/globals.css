@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -30,4 +30,45 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+} */
+
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-BlackItalic.ttf");
+}
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-Black.ttf");
+}
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-Bold.ttf");
+}
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-BookItalic.ttf");
+}
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-Book.ttf");
+}
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: "CircularStd";
+  src: url("./assets/fonts/CircularStd/CircularStd-Medium.ttf");
 }
