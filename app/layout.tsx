@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { circularStd } from "@/fonts";
-
+import { circularStd } from "@/styles/fonts";
 
 export const metadata: Metadata = {
   title: "Ruskin - Devstream",
