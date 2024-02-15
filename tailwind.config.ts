@@ -16,6 +16,12 @@ const config: Config = {
       fontFamily: {
         "circular-std": ["var(--font-circular-std)"],
       },
+      colors: {
+        "primary-background-color": "#080808",
+        "secondary-background-color": "#17231A",
+        "primary-font-color": "#FFFFFF",
+        "secondary-font-color": "#69FFAD",
+      },
     },
   },
   plugins: [],
