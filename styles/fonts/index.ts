@@ -3,38 +3,38 @@ import localFont from "next/font/local";
 const circularStd = localFont({
   src: [
     {
-      path: "./fonts/CircularStd/CircularStd-Book.ttf",
+      path: "./CircularStd/CircularStd-Book.ttf",
       weight: "400",
     },
     {
-      path: "./fonts/CircularStd/CircularStd-Medium.ttf",
+      path: "./CircularStd/CircularStd-Medium.ttf",
       weight: "500",
     },
     {
-      path: "./fonts/CircularStd/CircularStd-Bold.ttf",
+      path: "./CircularStd/CircularStd-Bold.ttf",
       weight: "800",
     },
     {
-      path: "./fonts/CircularStd/CircularStd-Black.ttf",
+      path: "./CircularStd/CircularStd-Black.ttf",
       weight: "900",
     },
     {
-      path: "./fonts/CircularStd/CircularStd-BookItalic.ttf",
+      path: "./CircularStd/CircularStd-BookItalic.ttf",
       weight: "400",
       style: "italic",
     },
     {
-      path: "./fonts/CircularStd/CircularStd-MediumItalic.ttf",
+      path: "./CircularStd/CircularStd-MediumItalic.ttf",
       weight: "500",
       style: "italic",
     },
     {
-      path: "./fonts/CircularStd/CircularStd-BoldItalic.ttf",
+      path: "./CircularStd/CircularStd-BoldItalic.ttf",
       weight: "800",
       style: "italic",
     },
     {
-      path: "./fonts/CircularStd/CircularStd-BlackItalic.ttf",
+      path: "./CircularStd/CircularStd-BlackItalic.ttf",
       weight: "900",
       style: "italic",
     },
