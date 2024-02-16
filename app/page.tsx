@@ -5,6 +5,9 @@ import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import ProductionDescription from "@/components/ProductDescription";
+import FeatureCards from "@/components/FeatureCards";
+import Performance from "@/components/Performance";
+import SetupLine from "@/components/SetupLine";
 
 const circlePositions: CircleCoordinates[] = [
   {
@@ -26,6 +29,9 @@ export default function Home() {
         <ProductionDescription />
         <AdminPanel />
         <Features />
+        <FeatureCards />
+        <Performance />
+        <SetupLine />
         <Footer />
       </BackgroundCircularBlur>
     </main>
