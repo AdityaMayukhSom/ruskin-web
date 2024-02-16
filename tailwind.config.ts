@@ -21,6 +21,7 @@ const config: Config = {
         "secondary-background-color": "#17231A",
         "primary-font-color": "#FFFFFF",
         "secondary-font-color": "#69FFAD",
+        "tertiary-font-color": "#AAAAAA",
       },
       height: {
         "120": "30rem",
