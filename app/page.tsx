@@ -1,5 +1,6 @@
 import AdminPanel from "@/components/AdminPanel";
 import BackgroundCircularBlur from "@/components/BackgroundCircularBlur";
+import Features from "@/components/Features";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
@@ -24,6 +25,7 @@ export default function Home() {
         <Hero />
         <ProductionDescription />
         <AdminPanel />
+        <Features />
         <Footer />
       </BackgroundCircularBlur>
     </main>
