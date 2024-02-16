@@ -7,9 +7,9 @@ export default function Footer() {
       <span className="flex flex-row items-center gap-x-2">
         <Image
           alt="devstream logo"
-          height={32}
-          width={32}
-          src="/devstream.svg"
+          height={30}
+          width={30}
+          src="/logo-single.svg"
         />
       </span>
       <ul className="flex flex-row gap-x-8">
