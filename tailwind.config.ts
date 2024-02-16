@@ -22,6 +22,18 @@ const config: Config = {
         "primary-font-color": "#FFFFFF",
         "secondary-font-color": "#69FFAD",
       },
+      height: {
+        "120": "30rem",
+        "128": "32rem",
+      },
+      width: {
+        "120": "30rem",
+        "128": "32rem",
+      },
+      size: {
+        "120": "30rem",
+        "128": "32rem",
+      },
     },
   },
   plugins: [],
