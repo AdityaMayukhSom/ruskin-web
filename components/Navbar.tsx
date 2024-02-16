@@ -3,9 +3,9 @@ import Link from "next/link";
 import "@/styles/components/Navbar.module.css";
 // import devstreamLogo from '@/public/devstream.svg'
 
-export function Navbar() {
+export default function Navbar() {
   return (
-    <nav className="flex flex-row items-center justify-between px-10 py-8">
+    <nav className="flex flex-row items-center justify-between py-8 px-12">
       <span className="flex flex-row items-center gap-x-2">
         <Image
           alt="devstream logo"
